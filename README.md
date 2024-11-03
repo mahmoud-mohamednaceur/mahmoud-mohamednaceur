@@ -16,43 +16,40 @@ As a dedicated **Data Scientist** and **Informatics Enthusiast**, I leverage my 
 
 ### 🌐 Connect with Me
 - [LinkedIn](https://linkedin.com/in/mohamed-naceur-mahmoud)  
-- [GitHub](https://github.com/your-github-username)
-
 ---
 
 ### 🛠️ Languages & Tools
-#### **Data Analysis & Visualization**
 - Python
-- R
+- kotlin
+- java
+- flutterflow
 - SQL
 - Tableau
 - Plotly
 - Dash
 - Streamlit
+- Scikit-learn
+- PyTorch
+- Reinforcement Learning (RL)
+- PyCaret
 - ChatGPT
 - Gemini
 - Llama
-
-#### **Machine Learning & Deep Learning**
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- Keras
-- Reinforcement Learning (RL)
-- PyCaret
-
-#### **Data Engineering**
 - Apache Spark
-- Apache Kafka
-- Data Profiling
-- ETL Tools
-
-#### **Other Tools**
+- databricks
+- pandas profiling
 - Jupyter Notebooks
 - Git
-- Docker
 - Microsoft Excel
-
+- pandas
+- matplotlib
+- seaborn
+-Azure DevOps
+-confluence
+-toad
+-figma
+   
+  
 ---
 
 ### 📈 Key Skills
