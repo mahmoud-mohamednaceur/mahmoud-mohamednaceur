@@ -1,4 +1,4 @@
-
+![Alt text](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">Hi 👋, I'm Mohamed Naceur Mahmoud</h1>
 <h3 align="center">Transforming Data into Actionable Insights | Data Scientist & Informatics Enthusiast 🚀</h3>
@@ -11,6 +11,16 @@
 
 ### 💼 About Me
 As a dedicated **Data Scientist** and **Informatics Enthusiast**, I leverage my expertise to uncover insights from data, drive business decisions, and develop intelligent systems. My journey in data analytics has equipped me with a robust set of skills, from statistical analysis to machine learning, enabling me to turn complex data into clear, actionable insights.
+
+---
+
+### 🌍 Languages I Speak
+- **Arabic**: Native speaker
+- **English**: Fluent
+- **German**: Fluent
+- **French**: Currently learning, at **B1 level**
+
+My language skills allow me to communicate effectively across diverse teams, and I'm currently advancing in French to further expand my linguistic reach. 
 
 ---
 
@@ -79,14 +89,8 @@ As a dedicated **Data Scientist** and **Informatics Enthusiast**, I leverage my 
 
 ---
 
-### 🌟 Projects
-- **[Project Name](link)**: A brief description of a relevant project that showcases your skills in data analysis or machine learning.
-- **[Project Name](link)**: A brief description of another project that highlights your problem-solving abilities or technical skills.
-
----
-
 ### 📚 Continuous Learning
-I am committed to staying updated with the latest industry trends and advancements in data science and machine learning. I regularly engage in online courses, workshops, and collaborative projects to enhance my skills and broaden my expertise.
+I am committed to staying updated with the latest industry trends and advancements in data science and machine learning. My **language learning journey in French** (currently at B1 level) is just one example of my passion for continuous growth. I regularly engage in online courses, workshops, and collaborative projects to enhance my technical expertise and expand my professional toolkit.
 
 ---
 
