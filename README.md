@@ -19,35 +19,52 @@ As a dedicated **Data Scientist** and **Informatics Enthusiast**, I leverage my 
 ---
 
 ### 🛠️ Languages & Tools
-- Python
-- kotlin
-- java
-- flutterflow
-- SQL
-- Tableau
-- Plotly
-- Dash
-- Streamlit
-- Scikit-learn
-- PyTorch
-- Reinforcement Learning (RL)
-- PyCaret
-- ChatGPT
-- Gemini
-- Llama
-- Apache Spark
-- databricks
-- pandas profiling
-- Jupyter Notebooks
-- Git
-- Microsoft Excel
-- pandas
-- matplotlib
-- seaborn
--Azure DevOps
--confluence
--toad
--figma
+
+### Programming Languages & Development Frameworks
+- **Python**: General-purpose programming, data analysis, machine learning.
+- **Kotlin**: Android development, alternative to Java.
+- **Java**: Enterprise applications, Android development.
+- **FlutterFlow**: Cross-platform app development (Flutter-based framework).
+
+### Data Visualization & BI Tools
+- **Tableau**: Business intelligence, data visualization.
+- **Plotly**: Data visualization library, interactive plots.
+- **Dash**: Web applications for data visualization (Plotly-based).
+- **Streamlit**: Web applications for data science, quick data visualization.
+- **matplotlib**: Basic plotting library for Python.
+- **seaborn**: Statistical data visualization, built on top of matplotlib.
+
+### Machine Learning & AI Libraries
+- **Scikit-learn**: Machine learning algorithms, data processing.
+- **PyTorch**: Deep learning, neural networks.
+- **Reinforcement Learning (RL)**: Algorithms for training agents in environments.
+- **PyCaret**: Low-code machine learning library for quick modeling.
+- **ChatGPT**: Large language model for natural language processing tasks.
+- **Gemini**: Advanced language model for conversational AI.
+- **Llama**: AI and machine learning framework by Meta.
+
+### Data Engineering & Big Data Platforms
+- **Apache Spark**: Big data processing, distributed computing.
+- **Databricks**: Cloud-based big data analytics, Spark platform.
+
+### Data Manipulation & Analysis
+- **pandas**: Data manipulation and analysis library for Python.
+- **pandas-profiling**: Automated data profiling for pandas DataFrames.
+- **Microsoft Excel**: Spreadsheet software for data analysis and reporting.
+- **Jupyter Notebooks**: Interactive coding and data visualization environment.
+
+### DevOps, Version Control, & Collaboration Tools
+- **Git**: Version control for tracking changes in code.
+- **Azure DevOps**: DevOps platform, CI/CD, source control.
+- **Confluence**: Collaboration and documentation platform.
+
+### SQL & Database Tools
+- **SQL**: Database querying language for data retrieval.
+- **Toad**: SQL development and database management tool.
+
+### Design & Prototyping
+- **Figma**: Collaborative design and prototyping tool for UI/UX. 
+
    
   
 ---
